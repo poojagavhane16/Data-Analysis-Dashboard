@@ -35,7 +35,7 @@ The Fashions cloths house wants to create an annual sales report for 2024. So th
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/2d2fbb1a-e750-4c7d-85bf-824ec0d3dcb6)
 
-## Project Insight
+## Project Insights
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 - The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
