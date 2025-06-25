@@ -4,3 +4,24 @@ The Fashions cloths house wants to create an annual sales report for 2024. So th
 
 ## Dataset used
 - <a href ="https://github.com/poojagavhane16/Data-Analysis-Dashboard/blob/main/Fashions%20Cloths%20House%20Data%20Analysis.xlsm">Fashions Cloths House Data</a>
+
+##Questions (KPIs)
+- Compare the sales and orders using single chart.
+
+- Which month got the highest sales and orders?
+
+- Who purchased more - Men or Women?
+
+- What are different order status in 2024?
+
+- List top 5 states contributingto the sales?
+
+- Relation between age and gender based on number of orders.
+
+- Which Channel is contributing maximum to the sales?
+
+- Highest selling category?
+
+- Percentage of Total Orders delivered
+
+- Dashboard Interaction <a href="https://github.com/poojagavhane16/Data-Analysis-Dashboard/blob/main/Dashboard.PNG">View Dashboard</a>
