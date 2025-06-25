@@ -5,7 +5,7 @@ The Fashions cloths house wants to create an annual sales report for 2024. So th
 ## Dataset used
 - <a href ="https://github.com/poojagavhane16/Data-Analysis-Dashboard/blob/main/Fashions%20Cloths%20House%20Data%20Analysis.xlsm">Fashions Cloths House Data</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 - Compare the sales and orders using single chart.
 
 - Which month got the highest sales and orders?
